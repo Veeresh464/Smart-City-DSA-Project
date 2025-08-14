@@ -1,4 +1,4 @@
-# City Services Management System
+# Smart City Management System
 
 This project is a comprehensive C-based system for managing city services, including **Railway Ticket Booking**, **Tourist Spot Information**, **Hospital Management**, and **Hotel Booking**. It demonstrates the use of data structures such as linked lists, hash tables, graphs, queues, and binary search trees.
 
