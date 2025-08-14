@@ -1,0 +1,13 @@
+0 Sattur
+1 Tollnaka
+2 Saraswatpur
+3 Marathacolony
+4 CBT
+5 Sadhankeri
+6 Saptapur
+7 Saidapur
+8 CBNagar
+9 Malmaddi
+
+
+
